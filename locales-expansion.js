@@ -10,5 +10,22 @@ window.KHEDMA_LOCALES={
   de:{name:'Deutschland',flag:'🇩🇪',language:'de',languages:['de']},
   ch:{name:'Schweiz',flag:'🇨🇭',language:'de',languages:['de','fr','it']},
   it:{name:'Italia',flag:'🇮🇹',language:'it',languages:['it']},
-  fr:{name:'France',flag:'🇫🇷',language:'fr',languages:['fr']}
+  fr:{name:'France',flag:'🇫🇷',language:'fr',languages:['fr']},
+  sa:{name:'السعودية',flag:'🇸🇦',language:'ar',languages:['ar']},
+  ae:{name:'الإمارات',flag:'🇦🇪',language:'ar',languages:['ar']},
+  qa:{name:'قطر',flag:'🇶🇦',language:'ar',languages:['ar']},
+  iq:{name:'العراق',flag:'🇮🇶',language:'ar',languages:['ar']},
+  sy:{name:'سوريا',flag:'🇸🇾',language:'ar',languages:['ar']},
+  es:{name:'España',flag:'🇪🇸',language:'es',languages:['es']},
+  pt:{name:'Portugal',flag:'🇵🇹',language:'pt',languages:['pt']},
+  nl:{name:'Nederland',flag:'🇳🇱',language:'nl',languages:['nl']},
+  be:{name:'België / Belgique',flag:'🇧🇪',language:'nl',languages:['nl','fr','de']},
+  mt:{name:'Malta',flag:'🇲🇹',language:'mt',languages:['mt','en']},
+  br:{name:'Brasil',flag:'🇧🇷',language:'pt',languages:['pt']},
+  ar:{name:'Argentina',flag:'🇦🇷',language:'es',languages:['es']},
+  cu:{name:'Cuba',flag:'🇨🇺',language:'es',languages:['es']},
+  gb_eng:{name:'England',flag:'🏴',language:'en',languages:['en']},
+  gb_sco:{name:'Scotland',flag:'🏴',language:'en',languages:['en','gd']},
+  ie:{name:'Ireland',flag:'🇮🇪',language:'en',languages:['en','ga']},
+  ca:{name:'Canada',flag:'🇨🇦',language:'en',languages:['en','fr']}
 };
