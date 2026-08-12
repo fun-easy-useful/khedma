@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "khedma-fault-ai",
+  "main": "workers/analyze-fault.js",
+  "compatibility_date": "2026-08-12",
+  "workers_dev": true,
+  "secrets": {
+    "required": ["OPENAI_API_KEY"]
+  }
+}
